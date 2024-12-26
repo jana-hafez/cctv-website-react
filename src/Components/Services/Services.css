@@ -1,0 +1,36 @@
+.services-container {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .text-uppercase {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .service-item {
+    /* border: 1px solid #ddd; */
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .service-item:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .icon-container img {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .service-item h5 {
+    color: #007bff;
+    font-weight: 600;
+  }
+  
+  .service-item p {
+    color: #666;
+  }
+  

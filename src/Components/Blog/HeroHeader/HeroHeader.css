@@ -1,0 +1,23 @@
+.hero-header {
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url(../img/new-carousel.jpg) center center no-repeat;
+    background-size: cover;
+    padding: 130px 0;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.hero-header h1, .hero-header p {
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8);
+}
+
+.hero-header .btn {
+    font-weight: 700;
+    padding: 20px 50px;
+    background-color: var(--primary);
+    border-radius: 50px;
+}
+
+.hero-header .btn:hover {
+    background-color: var(--secondary);
+    transform: scale(1.1);
+}

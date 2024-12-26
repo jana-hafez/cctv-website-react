@@ -1,0 +1,65 @@
+/* General Navbar Styles
+.navbar {
+  background-color: #ffffff; 
+  padding: 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler-icon {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.nav-link {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0 15px;
+  text-transform: capitalize;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.nav-item {
+  margin: 0;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.sticky-top {
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+}
+
+body {
+  padding-top: 70px; 
+} */
