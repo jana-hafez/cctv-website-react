@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cctv-website-react/static/css/main.a2518d34.css",
+    "main.js": "/cctv-website-react/static/js/main.22734510.js",
+    "index.html": "/cctv-website-react/index.html",
+    "main.a2518d34.css.map": "/cctv-website-react/static/css/main.a2518d34.css.map",
+    "main.22734510.js.map": "/cctv-website-react/static/js/main.22734510.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2518d34.css",
+    "static/js/main.22734510.js"
+  ]
+}
